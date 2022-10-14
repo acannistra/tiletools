@@ -1,11 +1,11 @@
-<center>
+<p align="center">
     <h2>
         <code>tiletools</code>
     </h2>
     <p>
         <em>A collection of scripts for dealing with Web Mercator tiles on the commandline.</em>
     </p>
-</center>
+</p>
 
 ---
 
